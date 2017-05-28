@@ -1,0 +1,9 @@
+Cloud Computing Assignment-1
+
+
+Public App URL: https://52.37.204.223/bindu/CloudAssignment1/
+GitHub Code URL:https://github.uc.edu/kanakahu/CloudComputing
+GitHub Doc URL:https://github.uc.edu/kanakahu/CloudComputing/blob/master/README.md
+GitHub  commit hash:0187d84027826e39980d174044abd03f501738cb
+GitHub  commit hash with link
+https://github.uc.edu/kanakahu/CloudComputing/commit/0187d84027826e39980d174044abd03f501738cb
